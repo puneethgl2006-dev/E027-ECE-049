@@ -1,0 +1,5 @@
+wo_id,boards_started,first_pass_boards,first_pass_yield_pct,shipped,scrapped,in_process,final_yield_pct,scrap_pct,scrap_cost,rework_cost,status
+WO-0001,50,50,100.0,50,0,0,100.0,0.0,0.00,0.00,CLOSED
+WO-0002,80,68,85.0,76,4,0,95.0,5.0,5920.00,1500.00,CLOSED
+WO-0003,120,105,87.5,117,3,0,97.5,2.5,1305.00,2250.00,CLOSED
+WO-0004,200,167,83.5,185,8,7,92.5,7.5,14860.00,3150.00,OPEN
