@@ -1,0 +1,14 @@
+defect_code,description,usual_stage
+D01,Solder bridge,AOI
+D02,Missing component,AOI
+D03,Tombstoned component,AOI
+D04,Wrong polarity,AOI
+D05,Insufficient solder,AOI
+D06,Short between nets,ICT
+D07,Open net,ICT
+D08,Supply current high,FCT
+D09,Firmware flash failed,FCT
+D10,RF output low,FCT
+X01,Lifted pad,AOI
+X02,Burnt IC,ICT
+X03,Cracked PCB,FCT

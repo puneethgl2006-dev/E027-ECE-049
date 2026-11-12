@@ -1,0 +1,4 @@
+stage_seq,stage_code,stage_name
+1,AOI,Automated optical inspection
+2,ICT,In-circuit test
+3,FCT,Functional test

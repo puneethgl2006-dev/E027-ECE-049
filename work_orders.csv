@@ -1,0 +1,5 @@
+wo_id,product,board_qty,serial_from,serial_to,material_cost_rs
+WO-0001,BLE sensor node v2,50,SN-00001,SN-00050,640.00
+WO-0002,Smart meter main board,80,SN-00051,SN-00130,1480.00
+WO-0003,LED driver 40 W,120,SN-00131,SN-00250,385.00
+WO-0004,IoT gateway controller,200,SN-00251,SN-00450,1820.00

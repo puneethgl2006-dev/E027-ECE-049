@@ -1,0 +1,8 @@
+# ECE-049 command file - load masters and events, process events in file order, then print reports
+LOAD_WORK_ORDERS|work_orders.csv
+LOAD_STAGES|stages.csv
+LOAD_DEFECTS|defect_codes.csv
+LOAD_EVENTS|test_events.csv
+PROCESS
+YIELD_REPORT
+PARETO
