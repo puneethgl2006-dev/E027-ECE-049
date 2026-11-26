@@ -14,6 +14,8 @@
 
 * **5-Minute Demo Video:** https://drive.google.com/file/d/1SksVPOPLp7Cl73rKvCenHBiz0SdvXhLe/view?usp=sharing
 
+* **5-Minute Demo Video:** https://drive.google.com/file/d/1SksVPOPLp7Cl73rKvCenHBiz0SdvXhLe/view?usp=sharing
+
 ## 1. Project Overview
 
 `tracker.py` is a deterministic, command-file-driven back-end rules engine for a Printed Circuit Board Assembly (PCBA) factory. It tracks every registered circuit board serial through three sequential inspection stages—**AOI** (Automated Optical Inspection), **ICT** (In-Circuit Test), and **FCT** (Functional Test)—routes non-fatal defects (`D01`–`D10`) to rework with a strict 2-retry limit across all stages, immediately scraps boards encountering fatal `X`-code defects (`X01`–`X03`) or a 3rd non-fatal failure, and generates exact field-for-field CSV reports for board state transitions, per-work-order yield and scrap/rework costs, defect Pareto rankings, and rejected events.
